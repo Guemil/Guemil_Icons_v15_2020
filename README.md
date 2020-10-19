@@ -1,4 +1,4 @@
-# Guemil v15 2020
+# Guemil v15 (2020)
 
 ### Third and latest version for an open-source icon initiative to represent risks and emergencies | Tercera y más reciente versión de una iniciativa de iconos open-source para representar situaciones de riesgo y emergencia
 
