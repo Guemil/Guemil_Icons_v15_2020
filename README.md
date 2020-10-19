@@ -8,13 +8,13 @@ Guemil permite disponer de una herramienta gráfica para diversas etapas y plata
 
 - - - - - - - - - - 
 
-![01_Man_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/01_Man_v15.png =100x100)
-![02_Woman_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/02_Woman_v15.png =100x100)
+![01_Man_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/01_Man_v15.png)
+![02_Woman_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/02_Woman_v15.png)
 ![03_Assembly_point_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/03_Assembly_point_v15.png)
 ![04_Disabled_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/04_Disabled_v15.png)
-![04_Disabled_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/05_Group_meeting_v15.png)
-![alt text](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/06_Authority_instruction_v15.png)
-![alt text](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/07_Evacuate_to_shelter_v15.png)
+![05_Group_meeting_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/05_Group_meeting_v15.png)
+![06_Authority_instruction_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/06_Authority_instruction_v15.png)
+![07_Evacuate_to_shelter_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/07_Evacuate_to_shelter_v15.png)
 ![alt text](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/08_Evacuate_v15.png)
 ![alt text](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/09_Emergency_exit_v15.png)
 ![alt text](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/10_Drop_cover_hold_v15.png)
