@@ -6,7 +6,7 @@ Guemil makes available a graphic tool for diverse stages and platforms of inform
 
 Guemil permite disponer de una herramienta gráfica para diversas etapas y plataformas de información (antes → durante → después). Los iconos son recursos simples y útiles para el diseño de comunicación y la investigación aplicada.
 
-We are currently testing Guemil v15 so we could keep on improving, **please help us taking the test on https://guemil.typeform.com/to/ZMrZ1l**
+We are currently testing Guemil v15 so we could keep on improving, **please help us by taking the test on https://guemil.typeform.com/to/ZMrZ1l**
 
 - - - - - - - - - - 
 
@@ -17,7 +17,7 @@ We are currently testing Guemil v15 so we could keep on improving, **please help
 
 ### Creative Commons License | Licencia Creative Commons
 
-Guemil Icons for Emergency is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Guemil Icons for Emergency is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
 
 **This means that you are free to:**
 
