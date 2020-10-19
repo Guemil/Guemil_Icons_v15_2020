@@ -8,7 +8,7 @@ Guemil permite disponer de una herramienta gráfica para diversas etapas y plata
 
 - - - - - - - - - - 
 
-![01_Man_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/01_Man_v15.png)
+![01_Man_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/svg/01_Man_v15.svg)
 ![02_Woman_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/02_Woman_v15.png)
 ![03_Assembly_point_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/03_Assembly_point_v15.png)
 ![04_Disabled_v15](https://raw.githubusercontent.com/Guemil/Guemil_Icons_v15_2020/main/png/04_Disabled_v15.png)
