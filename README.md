@@ -6,7 +6,9 @@ Guemil makes available a graphic tool for diverse stages and platforms of inform
 
 Guemil permite disponer de una herramienta gráfica para diversas etapas y plataformas de información (antes → durante → después). Los iconos son recursos simples y útiles para el diseño de comunicación y la investigación aplicada.
 
-We are currently testing Guemil v15 so we could keep on improving, **please help us by taking the test on https://guemil.typeform.com/to/ZMrZ1l** | Actualmente estamos poniendo a prueba Guemil v15 para poder seguir mejorando, **por favor ayúdanos tomando el test disponible en https://guemil.typeform.com/to/ZMrZ1l**
+We are currently testing Guemil v15 so we could keep on improving, **please help us by taking the test on [https://guemil.typeform.com/to/ZMrZ1l](https://guemil.typeform.com/to/ZMrZ1l)**
+
+Actualmente estamos poniendo a prueba Guemil v15 para poder seguir mejorando, **por favor ayúdanos tomando el test disponible en [https://guemil.typeform.com/to/ZMrZ1l](https://guemil.typeform.com/to/ZMrZ1l)**
 
 - - - - - - - - - - 
 
@@ -53,8 +55,8 @@ El licenciante no puede revocar estas libertades en tanto usted siga **los térm
 
 **Email**: guemilproject@gmail.com
 
-Website: http://www.guemil.info/
-
-Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
+Website: [http://www.guemil.info/](http://www.guemil.info/)
 
 Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
+
+Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
